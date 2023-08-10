@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wanzerdata
-- 👀 I’m interested in ADVPL,HTML5,Javascript,Vue.js,.NET
-- 🌱 I’m currently learning Vue.Js
-- 💞️ I’m looking to collaborate on TOTVS
+- 👀 I’m interested in ADVPL,PHP,Python,HTML5,Javascript,Vue.js,.NET
+- 🌱 I’m currently learning Javascript + Python
+- 💞️ I’m looking to collaborate on TOTVS Development
 - 📫 How to reach me ...
 
 <!---
